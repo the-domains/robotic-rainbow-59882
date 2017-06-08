@@ -1,0 +1,49 @@
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.07178776687942445
+  lightness: 0.32471010042354465
+  saturation: 0.48752411152236164
+  rhythmicContrast: 0.044475083937868476
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: robotic rainbow
+layout_spectrum: 0.7142914580181241
+typography_spectrum: 0.6513529883231968
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0f0f97f-690c-4127-982b-231c92467671.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0f0f97f-690c-4127-982b-231c92467671.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+title: ''
+description: For kids
